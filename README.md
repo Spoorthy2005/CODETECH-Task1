@@ -41,3 +41,6 @@ Future Enhancements:
 Add a timer for each question to increase difficulty.
 Include a leaderboard feature for competitive users.
 Integrate local storage or backend support to save progress and results.
+![Screenshot 2024-12-12 211458](https://github.com/user-attachments/assets/c3156104-1211-4dfd-9c90-206f3866d443)
+![Screenshot 2024-12-12 211511](https://github.com/user-attachments/assets/26bfa5aa-b135-46b4-9a71-bf7306e2aeee)
+![Screenshot 2024-12-12 211549](https://github.com/user-attachments/assets/ee066e93-7177-40c3-bfa0-201f2ab73af3)
